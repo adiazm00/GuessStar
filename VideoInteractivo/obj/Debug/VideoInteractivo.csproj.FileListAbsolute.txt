@@ -1,0 +1,118 @@
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe.config
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.pdb
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.baml
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.g.cs
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\App.g.cs
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.cache
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.g.resources
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.Properties.Resources.resources
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.exe
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.pdb
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_Content.g.cs
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.g.cs
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.lref
+C:\Users\andre\source\repos\alberto-diaz15\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.baml
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe.config
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.pdb
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.AssemblyReference.cache
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.baml
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.g.cs
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.g.cs
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\App.g.cs
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.cache
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.lref
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.baml
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.g.resources
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.Properties.Resources.resources
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.GenerateResource.cache
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.CoreCompileInputs.cache
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.exe
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.pdb
+C:\Users\adiaz\Desktop\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_Content.g.cs
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe.config
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.pdb
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csprojAssemblyReference.cache
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.baml
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.g.cs
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.g.cs
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\App.g.cs
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_Content.g.cs
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.cache
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.lref
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.baml
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.g.resources
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.Properties.Resources.resources
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.GenerateResource.cache
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.CoreCompileInputs.cache
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.exe
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.pdb
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.g.cs
+D:\Descargas\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.baml
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.AssemblyReference.cache
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.SuggestedBindingRedirects.cache
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.baml
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.g.cs
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.g.cs
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.g.cs
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\App.g.cs
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_Content.g.cs
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.cache
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.lref
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.exe
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.pdb
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe.config
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.pdb
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.baml
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.baml
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.g.resources
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.Properties.Resources.resources
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.GenerateResource.cache
+C:\Users\adiaz\Desktop\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.baml
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\App.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_Content.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.lref
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.baml
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.baml
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.g.resources
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.pdb
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe.config
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.pdb
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.Properties.Resources.resources
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.GenerateResource.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\Multim\Multi\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.exe
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe.config
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.exe
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\bin\Debug\VideoInteractivo.pdb
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.AssemblyReference.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.baml
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\MainWindow.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\App.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_Content.g.cs
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo_MarkupCompile.lref
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\WelcomeWindow.baml
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\FinWindow.baml
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.g.resources
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.Properties.Resources.resources
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.GenerateResource.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.csproj.CoreCompileInputs.cache
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.exe
+C:\Users\claud\Desktop\Universidad\4º\1 cuatri\Multimedia\VideoInteractivo\VideoInteractivo\obj\Debug\VideoInteractivo.pdb
